@@ -1,3 +1,9 @@
+# conjur-quick-quickstart
+
+Use `.\start.sh` in order to start Conjur OSS service and get admin logged-in Conjur Client container.
+
+`.\stop.sh` stops Conjur OSS service, removes all running containers and deletes all files created during start phase.
+
 # conjur-quickstart
 
 This repository guides you through a sample installation of Conjur Open Source
